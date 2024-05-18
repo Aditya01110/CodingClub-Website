@@ -1,0 +1,285 @@
+body{
+    background-color: whitesmoke;
+}
+
+.img0{
+    margin-left: 15px;
+    width: 620px;
+    height: 470px;
+    border-radius: 5px;
+  
+}
+
+.img1{
+    height: 470px;
+    width: 280px;
+    margin-left: 15px;
+    border-radius: 5px;
+    
+}
+
+.cofee{
+    display: inline;
+    
+}
+
+.imgdiv{
+    display:inline-block;
+    position: relative;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.15);
+    
+}
+
+.textin{
+    position: absolute;
+    top:200px;
+    left: 60px;
+    
+    
+    
+}
+
+.textin button{
+    margin-left: 15px;
+    border: none;
+    border-radius: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: white;
+    background-color: black;
+    padding:5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    transition: 0.15s;
+}
+
+.textin button:hover{
+    cursor: pointer;
+}
+
+.title0{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: 500;
+    font-size: 50px;
+       
+    padding-left: 18px; 
+    overflow: hidden;
+       
+
+}
+
+.logo{
+    height: 30px;
+    border-radius: 30px;
+    margin-left: 16px;
+    margin-top: 10px;
+}
+
+.author0,.author1,.author2,.author3{
+    font-size: 15px;
+    color:white;
+    font-weight: 700;
+    padding-top: 16px;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+}
+
+
+.blogdetails0{
+    font-size: 18px;
+    color: white;
+    padding-top: 16px;
+    padding-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 100px;
+    overflow: hidden;
+    font-weight: bold;
+}
+
+.imgdiv1 img{
+    display: block;
+}
+
+.imgdiv1{
+    display: inline-block;
+    margin-left: 15px;
+    position: relative;
+   
+}
+
+.textin1{
+    position: absolute;
+    top:20px;
+}
+
+.textin1 button{
+    margin-left: 10px;
+    border: none;
+    border-radius: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: white;
+    background-color: black;
+    padding:5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+
+}
+
+.textin1 button:hover{
+    cursor: pointer;
+}
+
+.title2,.title3{
+    margin-left: 15px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+    font-weight: 700;
+    padding-top: 7px;
+   padding-right: 10px;
+    font-size:20px;
+}
+
+ .blogdetails2,.blogdetails3{
+      color:white;
+      font-family:Arial, Helvetica, sans-serif ;
+      padding-top: 10px;
+      padding-left: 15px;
+      font-size: 15px;
+      font-weight: bolder;
+ }
+
+.imgdiv2{
+    display: inline-block;
+    position: relative;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.15);
+}
+
+.textin2{
+    position: absolute;
+    top: 170px;
+    left: 30px;
+}
+
+.textin2 button{
+    margin-left: 10px;
+    border: none;
+    border-radius: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: white;
+    background-color: black;
+    padding:5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+
+.textin2 button:hover{
+    cursor: pointer;
+}
+
+.title1{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    color: white;
+    padding-right: 20px;
+    padding-left: 15px;
+}
+
+.blogdetails1{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif ;
+    padding-top: 20px;
+    padding-left: 15px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.img2{
+    height: 225px;
+    border-radius: 5px;
+    width: 225px;
+    margin-bottom: 19px;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.15);
+  
+}
+.img3{
+    width: 225px;
+    height: 225px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.15);
+}
+
+.extra{
+    display: inline-block;
+    vertical-align: top;
+    width: 1fr;
+    margin-left: 30px;
+}
+
+.extra button{
+    font-size: 20px;
+    height:50px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    padding-right: 40px;
+    padding-left: 40px;
+    border-radius: 5px;
+    margin: 0;
+
+}
+
+.extra button:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    transition: 0.15s;
+}
+
+.img4,.img5,.img6,.img7{
+    height: 90px;
+    width: 80px;
+    border-radius: 4px;
+}
+
+.title4,.title5,.title6,.title7{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+}
+
+.blogdetails4,.blogdetails5,.blogdetails6,.blogdetails7{
+    padding-bottom: 7px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tile{
+        display: flex;
+        flex-direction: column;
+        padding-left: 18px;
+        padding-right: 9px;
+        justify-content: space-between;
+        
+}
+
+.tile1{
+            display: flex;
+            justify-content: space-between;
+            margin-top: 15px;
+            background-color: white;
+            width: 288px;
+            box-shadow: 2px 2px 2px rgba(0,0,0,0.15);
+            border-radius: 3px;
+}
+
+.button1{
+    margin-top: 70px;
+}
